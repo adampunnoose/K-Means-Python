@@ -136,7 +136,7 @@ def Kmeans(filname):
 
 
 
-filename = 'points1.csv'
+filename = 'points Template.csv'
 
 Kmeans(filename)
 
